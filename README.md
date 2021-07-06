@@ -1,2 +1,2 @@
-# Javascript-project
+# Javascript practice 
 first javascript project
